@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Data files
+data/*.csv
+
+# SQLite files 
+*.db
+
+# Log or temporary files
+*.log
+*.tmp
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# General system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Project-specific
+*.sqlite
+*.pkl
+*.h5
